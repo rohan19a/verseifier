@@ -17,3 +17,4 @@ def draw_verse(verse_dict):
     img.save('pil_text_font.png')
 
 draw_verse(1)
+print('done')
